@@ -1,0 +1,23 @@
+{
+  "name": "xuemingxingbook",
+  "version": "1.0.0",
+  "description": "创建金庸小说介绍电子书，完整实现自动化构建过程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woshitiancai1/xuemingxingbook.git"
+  },
+  "keywords": [],
+  "author": "xuemingxing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woshitiancai1/xuemingxingbook/issues"
+  },
+  "homepage": "https://github.com/woshitiancai1/xuemingxingbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
